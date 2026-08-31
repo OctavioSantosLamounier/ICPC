@@ -27,7 +27,6 @@ int main() {
     }
 
     cout << indexs[N] << '\n';
-
     return 0;
 }
 

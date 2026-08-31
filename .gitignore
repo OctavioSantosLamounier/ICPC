@@ -1,0 +1,7 @@
+# Pasta de fotos
+**/fotos/
+
+# Configurações do VSCode
+**/output/
+**/.vscode/
+*.exe
