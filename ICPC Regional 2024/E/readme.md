@@ -20,4 +20,4 @@ Ou seja, basta analisar os quatro cantos da matriz para descobrir em qual estado
 ## Complexidade
 
 - **Tempo:** `O(n²)`, para ler e armazenar a matriz.
-- **Memória:** `O(n²)`, para armazenar a matriz `N x N`.
+- **Memória:** `O(n²)`, para armazenar a matriz `N x N`. 
